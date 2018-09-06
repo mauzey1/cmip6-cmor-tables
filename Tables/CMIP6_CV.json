@@ -3833,8 +3833,7 @@
             },
             "dcppC-forecast-addPinatubo":{
                 "activity_id":[
-                    "DCPP",
-                    "VolMIP"
+                    "DCPP VolMIP"
                 ],
                 "additional_allowed_model_components":[
                     "AER",
@@ -5950,8 +5949,7 @@
             },
             "land-hist":{
                 "activity_id":[
-                    "LS3MIP",
-                    "LUMIP"
+                    "LS3MIP LUMIP"
                 ],
                 "additional_allowed_model_components":[
                     "BGC"
@@ -7599,8 +7597,7 @@
             },
             "piClim-aer":{
                 "activity_id":[
-                    "RFMIP",
-                    "AerChemMIP"
+                    "RFMIP AerChemMIP"
                 ],
                 "additional_allowed_model_components":[
                     "AER",
@@ -7647,8 +7644,7 @@
             },
             "piClim-control":{
                 "activity_id":[
-                    "RFMIP",
-                    "AerChemMIP"
+                    "RFMIP AerChemMIP"
                 ],
                 "additional_allowed_model_components":[
                     "AER",
@@ -8375,8 +8371,7 @@
             },
             "ssp370":{
                 "activity_id":[
-                    "ScenarioMIP",
-                    "AerChemMIP"
+                    "ScenarioMIP AerChemMIP"
                 ],
                 "additional_allowed_model_components":[
                     "AER",
