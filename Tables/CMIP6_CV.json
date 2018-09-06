@@ -33,13 +33,13 @@
             "variant_label"
         ],
         "version_metadata":{
-            "CV_collection_modified":"Tue Jul 31 17:33:00 2018 -0700",
-            "CV_collection_version":"6.2.11.2",
+            "CV_collection_modified":"Wed Aug 22 18:48:22 2018 -0700",
+            "CV_collection_version":"6.2.13.0",
             "author":"Paul J. Durack <durack1@llnl.gov>",
-            "experiment_id_CV_modified":"Wed Jul 25 07:56:41 2018 -0700",
-            "experiment_id_CV_note":"Revise LS3MIP experiment_ids, add land-ssp126",
+            "experiment_id_CV_modified":"Tue Aug  7 07:31:46 2018 -0700",
+            "experiment_id_CV_note":"Revise CDRMIP experiment_id start_years and num years",
             "institution_id":"PCMDI",
-            "previous_commit":"80f0f714fd30fee5fe9e41c58e60a6d520c0e0d2",
+            "previous_commit":"4775436280578b7f0ca75634666ec743f68e38f3",
             "specs_doc":"v6.2.6 (20th December 2017; https://goo.gl/v1drZl)"
         },
         "activity_id":{
@@ -7676,7 +7676,8 @@
                 ],
                 "additional_allowed_model_components":[
                     "AER",
-                    "CHEM"
+                    "CHEM",
+                    "BGC"
                 ],
                 "experiment":"effective radiative forcing by present-day greenhouse gases",
                 "experiment_id":"piClim-ghg",
@@ -7699,7 +7700,8 @@
                 ],
                 "additional_allowed_model_components":[
                     "AER",
-                    "CHEM"
+                    "CHEM",
+                    "BGC"
                 ],
                 "experiment":"transient effective radiative forcing by aerosols",
                 "experiment_id":"piClim-histaer",
@@ -7722,7 +7724,8 @@
                 ],
                 "additional_allowed_model_components":[
                     "AER",
-                    "CHEM"
+                    "CHEM",
+                    "BGC"
                 ],
                 "experiment":"transient effective radiative forcing",
                 "experiment_id":"piClim-histall",
@@ -7745,7 +7748,8 @@
                 ],
                 "additional_allowed_model_components":[
                     "AER",
-                    "CHEM"
+                    "CHEM",
+                    "BGC"
                 ],
                 "experiment":"transient effective radiative forcing by greenhouse gases",
                 "experiment_id":"piClim-histghg",
@@ -7768,7 +7772,8 @@
                 ],
                 "additional_allowed_model_components":[
                     "AER",
-                    "CHEM"
+                    "CHEM",
+                    "BGC"
                 ],
                 "experiment":"transient effective radiative forcing by natural perturbations",
                 "experiment_id":"piClim-histnat",
@@ -7791,7 +7796,8 @@
                 ],
                 "additional_allowed_model_components":[
                     "AER",
-                    "CHEM"
+                    "CHEM",
+                    "BGC"
                 ],
                 "experiment":"effective radiative forcing by present-day land use",
                 "experiment_id":"piClim-lu",
